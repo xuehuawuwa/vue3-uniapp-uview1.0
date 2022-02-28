@@ -1,18 +1,22 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Mac
+.DS_Store
+**/.DS_Store
 
-# Other files and folders
-.settings/
+# vim/vi
+*.swp
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# JavaScript
+node_modules/
+.node_modules/
+.eslintcache
+unpackage/
+.DS_Storer
+router.param.json
+.vscode
+.hbuilderx
+package-lock.json
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+
+# python
+*.pyc
+/uniCloud-tcb/database/*.jql

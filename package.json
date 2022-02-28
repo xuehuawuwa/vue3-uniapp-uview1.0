@@ -1,0 +1,14 @@
+{
+  "name": "vk-uview-ui-master",
+  "version": "1.0.0",
+  "description": "> 插件市场地址： [点击前往](https://ext.dcloud.net.cn/plugin?name=vk-uview-ui)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.2.31"
+  }
+}
